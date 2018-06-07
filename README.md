@@ -7,6 +7,7 @@ A template for new iOS projects.
 Inspired by thoughtbot/ios-template and Raizlabs/ios-template
 
 Quick Start
+```
 # Set up Ruby
 $ brew install ruby
 $ gem install bundler
@@ -15,3 +16,4 @@ $ brew install python3
 $ pip3 install cookiecutter
 # Run Cookiecutter
 $ cookiecutter https://github.com/miniki/ios-template/archive/master.zip
+```
